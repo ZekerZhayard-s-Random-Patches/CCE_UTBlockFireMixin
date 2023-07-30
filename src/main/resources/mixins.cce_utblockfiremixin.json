@@ -1,0 +1,9 @@
+{
+    "minVersion": "0.8",
+    "compatibilityLevel": "JAVA_8",
+    "package": "io.github.zekerzhayard.cce_utblockfiremixin.mixin",
+    "mixins": [
+        "MixinEntityArrow"
+    ],
+    "plugin": "io.github.zekerzhayard.cce_utblockfiremixin.core.MixinConfigPlugin"
+}

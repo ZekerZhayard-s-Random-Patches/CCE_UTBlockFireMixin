@@ -1,0 +1,18 @@
+[
+    {
+        "modid": "cce_utblockfiremixin",
+        "name": "CCE_UTBlockFireMixin",
+        "description": "",
+        "version": "${version}",
+        "mcversion": "${mcversion}",
+        "url": "",
+        "updateUrl": "",
+        "authorList": [
+            "ZekerZhayard"
+        ],
+        "credits": "",
+        "logoFile": "",
+        "screenshots": [],
+        "dependencies": []
+    }
+]
